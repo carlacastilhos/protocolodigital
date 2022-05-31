@@ -5,6 +5,6 @@ O limite de cada arquivo é de 50 MB, sendo que cada documento pode ser dividido
 
 Vale ressaltar a importância de se compactar os arquivos sem perder a qualidade, a fim de oferecer um melhor desempenho tanto para o próprio cidadão quanto para a ANM. 
 
-O próprio formato .pdf já realiza essa compressão, por exemplo, e, em casos de arquivos pdfs muito grandes, existem programas que realizam a quebra em mais arquivos. 
+O próprio formato .pdf já realiza essa compressão, por exemplo, e, em casos de arquivos pdfs muito grandes, recomendamos o uso de programas que realizam a quebra do .pdf em mais arquivos. 
 
 Em caso de documentos digitalizados (escaneados), observar a resolução mínima de 300 dpi para manutenção da qualidade e da legibilidade da cópia digital.
