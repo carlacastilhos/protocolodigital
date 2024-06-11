@@ -1,6 +1,12 @@
 Solicitar alteração do e-mail cadastrado no CTDM (ficha cadastral) para recuperação de senha e acesso aos sistemas
 ==================================================================================================================
 
+O CTDM (ficha cadastral) foi desativado em 31/12/2020.
+
+As informações abaixo estão disponíveis apenas para conhecimento do histórico das funcionalidades.
+
+---------------------------------------------
+
 Esse serviço é voltado para os usuários que não possuem mais acesso ao e-mail cadastrado no Cadastro de Titulares de Direitos Minerários (CTDM, também conhecido como Ficha Cadastral) e, também, não sabem ou não possuem acesso à senha que foi cadastrada no CTDM. 
 
 Nestes casos, o usuário não conseguirá acesso aos demais sistemas da ANM que ainda utilizam login e senha do CTDM. 
