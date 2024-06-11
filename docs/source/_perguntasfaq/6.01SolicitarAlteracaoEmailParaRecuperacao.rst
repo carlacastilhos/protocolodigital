@@ -1,7 +1,7 @@
 Solicitar alteração do e-mail cadastrado no CTDM (ficha cadastral) para recuperação de senha e acesso aos sistemas
 ==================================================================================================================
 
-O CTDM (ficha cadastral) foi desativado em 31/12/2020.
+O CTDM (ficha cadastral) foi desativado após a suspensão de prazos da COVID-19.
 
 As informações abaixo estão disponíveis apenas para conhecimento do histórico das funcionalidades.
 
