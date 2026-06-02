@@ -1,21 +1,37 @@
 Como acessar o novo Sistema de Dados Cadastrais?
 ================================================
 
-O acesso ao novo Sistema de Dados Cadastrais é pelo Protocolo Digital da ANM seguindo as possibilidades de acesso conforme for o caso:
+O acesso ao novo Sistema de Dados Cadastrais se dá pelo endereço:
 
 https://sdc.anm.gov.br/
 
+1) Será exibida a tela de login, clique em "Entrar com gov.br".:
 
-1) Uma vez logado, acesse a aba **Dados Cadastrais** para ter acesso ao Sistema de Dados Cadastrais (SDC):
+.. image:: ../imagens/telaSCA.2.jpeg
+
+
+2) Uma vez logado, acesse a aba **Dados Cadastrais** para ter acesso ao Sistema de Dados Cadastrais (SDC):
 
 .. image:: ../imagens/tela04_logadoProtocoloDigital_dadosCadastrais.png
 
 
-2) Na página do Sistema de Dados Cadastrais, atualize os dados cadastrais dos campos liberados para edição:
+3) O Sistema de Dados Cadastrais possui suporte aos dados de pessoa física e jurídica. 
 
-O Sistema de Dados Cadastrais possui suporte aos dados de pessoa física e jurídica. 
+Os campos de pessoa jurídica se tornam visíveis quando o usuário estiver operando em nome de uma pessoa jurídica, acessível em "Minhas Representações":
 
-Os campos de pessoa jurídica se tornam visíveis quando o usuário estiver operando em nome de uma pessoa jurídica, acessível em "Minhas Representações".
+.. image:: ../imagens/SDC.minhasrepresentacoes2.jpeg
+
+Dica! Caso a empresa não esteja aparecendo na lista, confirme se o seu cpf está entre os relacionados ao CNPJ no Portal do Gov.br.
+
+Saiba mais como vincular empresas e colaboradores no Gov.br em:
+
+https://acesso.gov.br/faq/
+
+https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br
+
+4) Na página do Sistema de Dados Cadastrais, atualize os dados cadastrais dos campos liberados para edição.
+
+.. image:: ../imagens/SDC.minhasrepresentacoes.jpeg
 
 O SDC é composto pelas seções:
 
@@ -37,3 +53,7 @@ O SDC é composto pelas seções:
 
 .. image:: ../imagens/tela04.1_logadoSDC.png
 *Os campos fechados para edição (em cinza) são dados provenientes da sua conta no Gov.BR*
+
+A mensagem de "Dados atualizados com sucesso" garante que a empresa foi cadastrada e/ou atualizada com sucesso.
+
+.. image:: ../imagens/SDCdadoatualizado.jpeg
