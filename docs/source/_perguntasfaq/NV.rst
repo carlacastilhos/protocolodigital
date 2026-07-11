@@ -4,7 +4,10 @@ Relatório de Indisponibilidades do Protocolo Digital ANM
 A Agência Nacional de Mineração (ANM) informa que, ao longo dos meses de abril a julho, ocorreram intercorrências que impactaram o acesso e a utilização não apenas do Protocolo Digital, mas também do Sistema de Dados Minerários, que viabiliza a consulta de processos aos titulares, e do Sistema de Dados Cadastrais, sistema exigido para o uso de todos os demais sistemas.
 Em razão das ocorrências registradas, a discussão sobre prorrogação adicional foi submetida à instância superior da ANM para deliberação. Após a conclusão dessa análise,  será realizada a correção dos campos relacionados à prorrogação de prazos.
 
-.. list-table:: Período de 03/07/2026 a 13/07/2026
+Período de 03/07/2026 a 13/07/2026
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -33,7 +36,10 @@ Em razão das ocorrências registradas, a discussão sobre prorrogação adicion
      - xx/xx/2026
      - Aguardando decisão da Diretoria Colegiada
 
-.. list-table:: Período de 08/06/2026 a 03/07/2026
+Período de 08/06/2026 a 03/07/2026
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -68,7 +74,10 @@ Em razão das ocorrências registradas, a discussão sobre prorrogação adicion
      - --
      -
 
-.. list-table:: Período de 01/05/2026 a 01/06/2026
+Período de 01/05/2026 a 01/06/2026
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -97,7 +106,10 @@ Em razão das ocorrências registradas, a discussão sobre prorrogação adicion
      - xx/xx/2026
      - Aguardando decisão da Diretoria Colegiada
 
-.. list-table:: Período de 01/04/2026 a 30/04/2026
+Período de 01/04/2026 a 30/04/2026
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -138,7 +150,10 @@ Em razão das ocorrências registradas, a discussão sobre prorrogação adicion
      - --
      -
 
-.. list-table:: Período de 01/03/2026 a 31/03/2026
+Período de 01/03/2026 a 31/03/2026
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -191,7 +206,10 @@ Em razão das ocorrências registradas, a discussão sobre prorrogação adicion
      - --
      -
 
-.. list-table:: Período de 01/02/2026 a 28/02/2026
+Período de 01/02/2026 a 28/02/2026
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -214,7 +232,10 @@ Em razão das ocorrências registradas, a discussão sobre prorrogação adicion
      - --
      -
 
-.. list-table:: Período de 01/01/2026 a 31/01/2026
+Período de 01/01/2026 a 31/01/2026
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -231,7 +252,10 @@ Em razão das ocorrências registradas, a discussão sobre prorrogação adicion
      - 07/01/2026
      - Art. 81, inc. I Resolução 16/2019 e Art. 81, inc. II Resolução 16/2019
 
-.. list-table:: Período de 01/12/2025 a 31/12/2025
+Período de 01/12/2025 a 31/12/2025
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -254,7 +278,10 @@ Período de 01/11/2025 a 30/11/2025
 .. note::
    Não houve indisponibilidade registrada no período informado
 
-.. list-table:: Período de 01/10/2025 a 31/10/2025
+Período de 01/10/2025 a 31/10/2025
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -277,7 +304,10 @@ Período de 01/11/2025 a 30/11/2025
      - 07/10/2025
      - Art. 81, inc. II Resolução 16/2019
 
-.. list-table:: Período de 01/09/2025 a 30/09/2025
+Período de 01/09/2025 a 30/09/2025
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -306,7 +336,10 @@ Período de 01/11/2025 a 30/11/2025
      - 09/09/2025
      - Art. 81, inc. I Resolução 16/2019 e Art. 81, inc. II Resolução 16/2019
 
-.. list-table:: Período de 02/08/2025 a 31/08/2025
+Período de 02/08/2025 a 31/08/2025
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -329,7 +362,10 @@ Período de 01/11/2025 a 30/11/2025
      - 20/08/2025
      - Art. 81, inc. I Resolução 16/2019 e Art. 81, inc. II Resolução 16/2019
 
-.. list-table:: Período de 01/07/2025 a 01/08/2025
+Período de 01/07/2025 a 01/08/2025
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -406,7 +442,10 @@ Período de 01/11/2025 a 30/11/2025
      - 17/07/2025
      - Art. 81, inc. I Resolução 16/2019 e Art. 81, inc. II Resolução 16/2019
 
-.. list-table:: Período de 02/06/2025 a 30/06/2025
+Período de 02/06/2025 a 30/06/2025
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -435,7 +474,10 @@ Período de 01/11/2025 a 30/11/2025
      - --
      -
 
-.. list-table:: Período de 01/05/2025 a 01/06/2025
+Período de 01/05/2025 a 01/06/2025
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -458,7 +500,10 @@ Período de 01/11/2025 a 30/11/2025
      - 27/05/2025
      - Art. 81, inc. I Resolução 16/2019 e Art. 81, inc. II Resolução 16/2019
 
-.. list-table:: Período de 01/04/2025 a 30/04/2025
+Período de 01/04/2025 a 30/04/2025
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -523,7 +568,10 @@ Período de 01/11/2025 a 30/11/2025
      - --
      -
 
-.. list-table:: Período de 01/03/2025 a 31/03/2025
+Período de 01/03/2025 a 31/03/2025
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -564,7 +612,10 @@ Período de 01/11/2025 a 30/11/2025
      - --
      -
 
-.. list-table:: Período de 04/01/2025 a 28/02/2025
+Período de 04/01/2025 a 28/02/2025
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -581,7 +632,10 @@ Período de 01/11/2025 a 30/11/2025
      - 25/02/2025
      - Art. 81, inc. I Resolução 16/2019 e Art. 81, inc. II Resolução 16/2019
 
-.. list-table:: Período de 05/12/2024 a 03/01/2025
+Período de 05/12/2024 a 03/01/2025
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -622,7 +676,10 @@ Período de 01/11/2025 a 30/11/2025
      - --
      -
 
-.. list-table:: Período de 01/11/2024 a 04/12/2024
+Período de 01/11/2024 a 04/12/2024
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -705,7 +762,10 @@ Período de 01/11/2025 a 30/11/2025
      - 04/11/2024
      - Art. 81, inc. I Resolução 16/2019 e Art. 81, inc. II Resolução 16/2019
 
-.. list-table:: Período de 01/10/2024 a 31/10/2024
+Período de 01/10/2024 a 31/10/2024
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -810,7 +870,10 @@ Período de 01/11/2025 a 30/11/2025
 
 ²Indisponibilidade parcial (REPEM e Requerimentos) e/ou intermitências, podem ter ocorrido protocolizações com sucesso dos demais tipos de requerimento.
 
-.. list-table:: Período de 01/09/2024 a 30/09/2024
+Período de 01/09/2024 a 30/09/2024
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -851,7 +914,10 @@ Período de 01/11/2025 a 30/11/2025
      - 10/09/2024
      - Art. 81, inc. I Resolução 16/2019 e Art. 81, inc. II Resolução 16/2019
 
-.. list-table:: Período de 02/08/2024 a 31/08/2024
+Período de 02/08/2024 a 31/08/2024
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -874,7 +940,10 @@ Período de 01/11/2025 a 30/11/2025
      - --
      -
 
-.. list-table:: Período de 02/07/2024 a 01/08/2024
+Período de 02/07/2024 a 01/08/2024
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -969,7 +1038,10 @@ Período de 01/11/2025 a 30/11/2025
      - --
      -
 
-.. list-table:: Período de 01/06/2024 a 01/07/2024
+Período de 01/06/2024 a 01/07/2024
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1010,7 +1082,10 @@ Período de 01/11/2025 a 30/11/2025
      - --
      -
 
-.. list-table:: Período de 01/04/2024 a 31/05/2024
+Período de 01/04/2024 a 31/05/2024
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1035,7 +1110,10 @@ Período de 01/03/2024 a 31/03/2024
 .. note::
    Não houve indisponibilidade registrada no período informado
 
-.. list-table:: Período de 01/02/2024 a 29/02/2024
+Período de 01/02/2024 a 29/02/2024
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1052,7 +1130,10 @@ Período de 01/03/2024 a 31/03/2024
      - 05/02/2024
      - Art. 81, inc. I Resolução 16/2019
 
-.. list-table:: Período de 01/01/2024 a 31/01/2024
+Período de 01/01/2024 a 31/01/2024
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1069,7 +1150,10 @@ Período de 01/03/2024 a 31/03/2024
      - 24/01/2024
      - Art. 81, inc. I Resolução 16/2019 e Art. 81, inc. II Resolução 16/2019
 
-.. list-table:: Período de 01/12/2023 a 31/12/2023
+Período de 01/12/2023 a 31/12/2023
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1086,7 +1170,10 @@ Período de 01/03/2024 a 31/03/2024
      - --
      -
 
-.. list-table:: Período de 01/11/2023 a 30/11/2023
+Período de 01/11/2023 a 30/11/2023
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1109,7 +1196,10 @@ Período de 01/03/2024 a 31/03/2024
      - --
      -
 
-.. list-table:: Período de 01/10/2023 a 31/10/2023
+Período de 01/10/2023 a 31/10/2023
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1132,7 +1222,10 @@ Período de 01/07/2023 a 30/09/2023
 .. note::
    Não houve indisponibilidade registrada no período informado
 
-.. list-table:: Período de 01/06/2023 a 30/06/2023
+Período de 01/06/2023 a 30/06/2023
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1161,7 +1254,10 @@ Período de 01/03/2023 a 31/05/2023
 .. note::
    Não houve indisponibilidade registrada no período informado
 
-.. list-table:: Período de 01/02/2023 a 28/02/2023
+Período de 01/02/2023 a 28/02/2023
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1202,7 +1298,10 @@ Período de 01/03/2023 a 31/05/2023
      - --
      -
 
-.. list-table:: Período de 01/01/2023 a 31/01/2023
+Período de 01/01/2023 a 31/01/2023
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1231,7 +1330,10 @@ Período de 01/12/2022 a 31/12/2022
 .. note::
    Não houve indisponibilidade registrada no período informado
 
-.. list-table:: Período de 01/11/2022 a 30/11/2022
+Período de 01/11/2022 a 30/11/2022
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1260,7 +1362,10 @@ Período de 01/12/2022 a 31/12/2022
      - --
      -
 
-.. list-table:: Período de 01/10/2022 a 31/10/2022
+Período de 01/10/2022 a 31/10/2022
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1307,7 +1412,10 @@ Período de 01/12/2022 a 31/12/2022
      - --
      -
 
-.. list-table:: Período de 01/09/2022 a 30/09/2022
+Período de 01/09/2022 a 30/09/2022
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1324,7 +1432,10 @@ Período de 01/12/2022 a 31/12/2022
      - --
      - (inferior a 05h)
 
-.. list-table:: Período de 01/08/2022 a 31/08/2022
+Período de 01/08/2022 a 31/08/2022
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1365,7 +1476,10 @@ Período de 01/06/2022 a 31/07/2022
 .. note::
    Não houve indisponibilidade registrada no período informado
 
-.. list-table:: Período de 01/05/2022 a 26/05/2022
+Período de 01/05/2022 a 26/05/2022
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1412,7 +1526,10 @@ Período de 01/06/2022 a 31/07/2022
      - 30/05/2022
      - Art. 81, inc. I Resolução 16/2019 e Art. 81, inc. II Resolução 16/19
 
-.. list-table:: Período de 01/04/2022 a 30/04/2022
+Período de 01/04/2022 a 30/04/2022
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1465,7 +1582,10 @@ Período de 01/06/2022 a 31/07/2022
      - 25/04/2022
      - Art. 81, inc. I Resolução 16/2019 e Art. 81, inc. II Resolução 16/19
 
-.. list-table:: Período de 01/03/2022 a 31/03/2022
+Período de 01/03/2022 a 31/03/2022
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1500,7 +1620,10 @@ Período de 01/02/2022 a 28/02/2022
 .. note::
    Não houve indisponibilidade registrada no período informado
 
-.. list-table:: Período de 01/01/2022 a 31/01/2022
+Período de 01/01/2022 a 31/01/2022
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1517,7 +1640,10 @@ Período de 01/02/2022 a 28/02/2022
      - --
      - (inferior a 05h)
 
-.. list-table:: Período de 01/12/2021 a 31/12/2021
+Período de 01/12/2021 a 31/12/2021
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1546,7 +1672,10 @@ Período de 01/09/2021 a 30/11/2021
 .. note::
    Não houve indisponibilidade registrada no período informado
 
-.. list-table:: Período de 01/08/2021 a 31/08/2021
+Período de 01/08/2021 a 31/08/2021
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1563,7 +1692,10 @@ Período de 01/09/2021 a 30/11/2021
      - 20/08/2021
      - Art. 81, inc. I Resolução 16/2019
 
-.. list-table:: Período de 01/07/2021 a 31/07/2021
+Período de 01/07/2021 a 31/07/2021
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1598,7 +1730,10 @@ Período de 01/05/2021 a 30/06/2021
 .. note::
    Não houve indisponibilidade registrada no período informado
 
-.. list-table:: Período 01/04/2021 a 30/04/2021
+Período 01/04/2021 a 30/04/2021
+-------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1639,7 +1774,10 @@ Período de 01/01/2021 a 31/03/2021
 .. note::
    Não houve indisponibilidade registrada no período informado
 
-.. list-table:: Período de 01/10/2020 a 31/12/2020
+Período de 01/10/2020 a 31/12/2020
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1681,7 +1819,10 @@ Período de 01/04/2020 a 30/09/2020
    * Prazos prorrogados até 31/08/2020 (CFEM, TAH, Taxa de vistoria e multas) (Resolução 46/2020 - art. 6º)
    * Prazos prorrogados até 30/09/2021 (demais protocolizações previstas na Resolução 76/2021 - art. 1º)
 
-.. list-table:: Período 01/03/2020 a 31/03/2020
+Período 01/03/2020 a 31/03/2020
+-------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1716,7 +1857,10 @@ Período de 01/04/2020 a 30/09/2020
      - 05/03/2020
      - Art. 81, inc. II Resolução 16/2019
 
-.. list-table:: Período de 01/02/2020 a 29/02/2020
+Período de 01/02/2020 a 29/02/2020
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1751,7 +1895,10 @@ Período de 01/04/2020 a 30/09/2020
      - 10/02/2020
      - Art. 81, inc. I Resolução 16/2019
 
-.. list-table:: Período de 01/01/2020 a 31/01/2020
+Período de 01/01/2020 a 31/01/2020
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
@@ -1828,7 +1975,10 @@ Período de 01/04/2020 a 30/09/2020
      - 06/01/2020
      - Art. 81, inc. I Resolução 16/2019
 
-.. list-table:: Período de 01/12/2019 a 31/12/2019
+Período de 01/12/2019 a 31/12/2019
+----------------------------------
+
+.. list-table::
    :widths: 15 15 10 20 15 25
    :header-rows: 1
 
