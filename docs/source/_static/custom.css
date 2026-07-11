@@ -1,0 +1,12 @@
+/* Faz as células das tabelas quebrarem linha em vez de gerar barra de
+   rolagem horizontal no tema sphinx_rtd_theme (Read the Docs). */
+@media screen and (min-width: 767px) {
+    .wy-table-responsive table td,
+    .wy-table-responsive table th {
+        white-space: normal !important;
+    }
+    .wy-table-responsive {
+        overflow: visible !important;
+    }
+}
+ 
