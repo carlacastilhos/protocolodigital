@@ -21,20 +21,20 @@ Período de 03/07/2026 a 13/07/2026
      - 13/07/2026 09:00
      - 4d 22h25m
      - 08/07/2026 a 10/07/2026
-     - xx/xx/2026
-     - Aguardando decisão da Diretoria Colegiada
+     - 28/09/2026
+     - 28/09/2026, nos termos da Resolução 246, de 06 de agosto de 2026.
    * - 07/07/2026 15:24
      - 08/07/2026 10:34
      - 19h10m45s
      - 07/07/2026 a 08/07/2026
-     - xx/xx/2026
-     - Aguardando decisão da Diretoria Colegiada
+     - 28/09/2026
+     - 28/09/2026, nos termos da Resolução 246, de 06 de agosto de 2026.
    * - 03/07/2026 18:43
      - 07/07/2026 15:24
      - 3d 20h41m4s
      - 03/07/2026 a 07/07/2026
-     - xx/xx/2026
-     - Aguardando decisão da Diretoria Colegiada
+     - 28/09/2026
+     - Resolução 246, de 06 de agosto de 2026.
 
 Período de 08/06/2026 a 03/07/2026
 ----------------------------------
@@ -53,20 +53,20 @@ Período de 08/06/2026 a 03/07/2026
      - 03/07/2026 09:00
      - 10d 22h 6m
      - 22/06/2026 a 03/07/2026
-     - xx/xx/2026
-     - Aguardando decisão da Diretoria Colegiada
+     - 28/09/2026
+     - Resolução 246, de 06 de agosto de 2026.
    * - 12/06/2026 18:56
      - 17/06/2026 09:02
      - 4d 14h6m12s
      - 12/06/2026 a 17/06/2026
-     - xx/xx/2026
-     - Aguardando decisão da Diretoria Colegiada
+     - 28/09/2026
+     - Resolução 246, de 06 de agosto de 2026.
    * - 08/06/2026 09:31
      - 10/06/2026 10:00
      - 2d 29m
      - 08/06/2026 a 10/06/2026
-     - xx/xx/2026
-     - Aguardando decisão da Diretoria Colegiada
+     - 28/09/2026
+     - Resolução 246, de 06 de agosto de 2026.
    * - 08/06/2026 09:25
      - 08/06/2026 09:30
      - 5m13s
@@ -91,20 +91,20 @@ Período de 01/05/2026 a 01/06/2026
      - 01/06/2026 07:59
      - 2d 11h 59m
      - 29/05/2026 a 01/06/2026
-     - xx/xx/2026
-     - Aguardando decisão da Diretoria Colegiada
+     - 28/09/2026
+     - Resolução 246, de 06 de agosto de 2026.
    * - 20/05/2026 09:54
      - 25/05/2026 15:00
      - 5d 5h 6m
      - 20/05/2026 a 25/05/2026
-     - xx/xx/2026
-     - Aguardando decisão da Diretoria Colegiada
+     - 28/09/2026
+     - Resolução 246, de 06 de agosto de 2026.
    * - 19/05/2026 15:22
      - 20/05/2026 09:53
      - 18h31m12s
      - 19/05/2026 a 20/05/2026
-     - xx/xx/2026
-     - Aguardando decisão da Diretoria Colegiada
+     - 28/09/2026
+     - Resolução 246, de 06 de agosto de 2026.
 
 Período de 01/04/2026 a 30/04/2026
 ----------------------------------
@@ -123,26 +123,26 @@ Período de 01/04/2026 a 30/04/2026
      - 08/05/2026 14:00
      - 14d 21h
      - 23/04/2026 a 08/05/2026
-     - xx/xx/2026
-     - Aguardando decisão da Diretoria Colegiada
+     - 28/09/2026
+     - Resolução 246, de 06 de agosto de 2026.
    * - 16/04/2026 13:40
      - 23/04/2026 16:59
      - 7d 3h 19m
      - 16/04/2026 a 23/04/2026
-     - xx/xx/2026
-     - Aguardando decisão da Diretoria Colegiada
+     - 28/09/2026
+     - Resolução 246, de 06 de agosto de 2026.
    * - 14/04/2026 12:19
      - 16/04/2026 13:39
      - 2d 1h 20m
      - 14/04/2026 a 16/04/2026
-     - xx/xx/2026
-     - Aguardando decisão da Diretoria Colegiada
+     - 28/09/2026
+     - Resolução 246, de 06 de agosto de 2026.
    * - 06/04/2026 10:20
      - 09/04/2026 15:00
      - 3d 4h 40m
      - 06/04/2026 a 09/04/2026
-     - xx/xx/2026
-     - Aguardando decisão da Diretoria Colegiada
+     - 28/09/2026
+     - Resolução 246, de 06 de agosto de 2026.
    * - 02/04/2026 19:00
      - 02/04/2026 20:00
      - 1h
