@@ -22,13 +22,13 @@ Período de 03/07/2026 a 13/07/2026
      - 4d 22h25m
      - 08/07/2026 a 10/07/2026
      - 28/09/2026
-     - 28/09/2026, nos termos da Resolução 246, de 06 de agosto de 2026.
+     - Resolução 246, de 06 de agosto de 2026.
    * - 07/07/2026 15:24
      - 08/07/2026 10:34
      - 19h10m45s
      - 07/07/2026 a 08/07/2026
      - 28/09/2026
-     - 28/09/2026, nos termos da Resolução 246, de 06 de agosto de 2026.
+     - Resolução 246, de 06 de agosto de 2026.
    * - 03/07/2026 18:43
      - 07/07/2026 15:24
      - 3d 20h41m4s
