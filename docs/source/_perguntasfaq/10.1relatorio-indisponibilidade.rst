@@ -4,7 +4,46 @@ Relatório de Indisponibilidades do Protocolo Digital ANM
 A Agência Nacional de Mineração (ANM) informa que, ao longo dos meses de abril a julho, ocorreram intercorrências que impactaram o acesso e a utilização não apenas do Protocolo Digital, mas também do Sistema de Dados Minerários, que viabiliza a consulta de processos aos titulares, e do Sistema de Dados Cadastrais, sistema exigido para o uso de todos os demais sistemas.
 Em razão das ocorrências registradas, a discussão sobre prorrogação adicional foi submetida à instância superior da ANM para deliberação. Após a conclusão dessa análise,  será realizada a correção dos campos relacionados à prorrogação de prazos.
 
-Período de 03/07/2026 a 13/07/2026
+Período de 01/08/2026 a 04/09/2026
+----------------------------------
+
+.. list-table::
+   :widths: 15 15 10 20 15 25
+   :header-rows: 1
+
+   * - Início do evento
+     - Solução
+     - Duração
+     - Vencimento do prazo
+     - Prazo prorrogado para
+     - Fundamentação legal
+
+   * - 03/09/2026 18:00
+     - 03/09/2026 18:30
+     - 30m
+     - --
+     - --
+     - --.
+   * - 19/08/2026 17:24
+     - 19/08/2026 17:42
+     - 18m9s
+     - --
+     - --
+     - --.
+   * - 19/08/2026 17:42
+     - 19/08/2026 18:20
+     - 38m26s
+     - --
+     - --
+     - --.
+   * - 19/08/2026 17:24
+     - 19/08/2026 17:42
+     - 18m9s
+     - --
+     - --
+     - --.
+
+Período de 03/07/2026 a 31/07/2026
 ----------------------------------
 
 .. list-table::
