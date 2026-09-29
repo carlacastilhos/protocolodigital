@@ -1,20 +1,63 @@
 Posso acessar o Protocolo Digital em nome de outra pessoa física? Como?
-=================================================================
+======================================================================
 
-Sim, utilizando a opção "Gerenciar Representação" no Sistema de Dados Cadastrais (SDC):
+Depende do tipo de protocolo.
+
+Protocolos realizados por código de requerimento
+************************************************
+
+Para os pré-requerimentos do Cadastro Mineiro que geram código de
+requerimento, é possível atuar em nome de outra pessoa física por meio da
+funcionalidade **Gerenciar Representação**, disponível no Sistema de Dados
+Cadastrais (SDC).
 
 .. image:: ../imagens/gerenciarrepresentacao.png
 
+O representante e o representado podem autorizar outras pessoas físicas
+(como responsáveis técnicos ou representantes legais) a realizar protocolos
+em seu nome por um período determinado.
 
-O representante e o representado podem incluir outras pessoas físicas (responsável técnico ou legal, por exemplo) para que realizem protocolos em seu nome, dentro de um determinado período.
+Para utilizar essa funcionalidade:
 
-O representante e o representado devem ter conta verificada (prata) ou comprovada (ouro) no Gov.Br e cadastro no Sistema de Dados Cadastrais (SDC) da ANM.
+* o representante e o representado devem possuir conta Gov.br nível prata
+  ou ouro;
+* ambos devem estar cadastrados no Sistema de Dados Cadastrais (SDC) da ANM;
+* a representação deve ser aprovada pelo representado.
 
 .. image:: ../imagens/cadastrarrespresentacaopf.png
 
-O represententante só poderá realizar protocolos em nome do representado após aprovação:
-
+Após a aprovação, o representante poderá utilizar a opção
+**"Protocolar por código de requerimento por terceiro"**.
 
 .. image:: ../imagens/listagemrepresentacao.png
 
-A responsabilidade pelo início e término dos relacionamentos, bem como das ações realizadas durante a vigência do relacionamento, é de exclusiva responsabilidade das partes envolvidas.
+.. note::
+
+   A responsabilidade pelo cadastro, manutenção e encerramento da
+   representação, bem como pelos atos praticados durante sua vigência,
+   é exclusiva das partes envolvidas.
+
+Protocolos realizados por número de processo
+********************************************
+
+Nos protocolos vinculados diretamente a um processo minerário, não é
+necessário utilizar a funcionalidade **Gerenciar Representação** do SDC.
+
+Nesses casos, o usuário pode acessar o Protocolo Digital com sua própria
+conta Gov.br e protocolar documentos referentes a processo de titularidade
+de outra pessoa física, desde que apresente a documentação necessária para
+comprovar a representação ou a manifestação de vontade do titular.
+
+Exemplo:
+
+Cumprimento de exigência em processo minerário de titularidade de pessoa
+física.
+
+Nesse caso, basta apresentar o requerimento assinado digitalmente pelo
+titular ou, quando o documento for assinado por outra pessoa, a respectiva
+procuração que comprove os poderes de representação.
+
+.. warning::
+
+   A responsabilidade pela autenticidade dos documentos apresentados e pela
+   representação exercida é exclusiva das partes envolvidas.
